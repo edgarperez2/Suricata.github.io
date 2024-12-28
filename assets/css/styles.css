@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+body {
+    font-family: 'Open Sans', sans-serif !important;
+}
+
+#navbar {
+    background-color: #E83E8C;
+    top: 0px;
+    left: 0px;
+    height: 75px;
+}
+
+.text-center {
+    text-align: left;
+    font: normal normal bold 60px/82px Open Sans;
+    letter-spacing: 0px;
+    color: #707070;
+    opacity: 1;
+}
+
+.col-12 {
+    top: 12px;
+    left: 119px;
+    width: 132px;
+    height: 53px;
+}
+
+.card-title {
+    text-align: left;
+    font: normal normal bold 17px/23px Open Sans;
+    color: #373A3C;
+    opacity: 1;
+}
+
+footer {
+    background-color: #E83E8C;
+}
+
+#cards-info {
+    background-color: #17A2B8;
+    color: white;
+    min-height: 130px;
+}
+
+#cards-info h3 {
+    font-weight: 800;
+}
